@@ -1,8 +1,14 @@
-<div align="center">
-  <h1 align="center"> 👋 Hello, I'm Fabio Gazzoni </h1>
-</div>
+# 👋 Fabio Gazzoni
 
 🔍️ I invite you to explore my personal projects. I try to keep this page organized so that you can easily find my most relevant work or browse what you are looking for.
+
+## 🛠️ **Core Technologies**
+![C](https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&color=blue)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=Cplusplus&logoColor=white&color=blue)
+![Python](https://img.shields.io/badge/-Python-00599C?logo=Python&logoColor=white&color=darkblue)
+![ESP-IDF](https://img.shields.io/badge/-ESP--IDF-00599C?logo=espressif&logoColor=white&color=darkred)
+
+
 
 <!--
 **FabioGazzoni/FabioGazzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
