@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center"> 👋 Hello, I'm Fabio Gazzoni </h1>
+</div>
+
+🔍️ I invite you to explore my personal projects. I try to keep this page organized so that you can easily find my most relevant work or browse what you are looking for.
 
 <!--
 **FabioGazzoni/FabioGazzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
